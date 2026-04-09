@@ -1,0 +1,4 @@
+protected_branches:
+  - main
+  - production
+  - release/v1
